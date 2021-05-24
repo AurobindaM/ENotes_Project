@@ -8,6 +8,7 @@ public class ENotesProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ENotesProjectApplication.class, args);
+		System.out.println("This is jenkins editing");
 	}
 
 }
