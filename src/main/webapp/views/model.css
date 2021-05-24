@@ -1,0 +1,18 @@
+body{
+	padding: 0px;
+	margin: 0px;
+}
+
+.bg-custom{
+background: #7b1fa2;	
+}
+.navbar .nav-item .nav-link ,.btn{
+	font-size:20px;
+	color:white;
+}
+
+.navbar-custom .nav-item:hover .nav-link{
+	background: white;
+	color:black; 
+	border-radius: 10px;
+}
